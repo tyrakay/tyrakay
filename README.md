@@ -4,7 +4,7 @@
 
 📍 London, United Kingdom
 
-📧 Email: tyrakoranteng462gmail.com 
+📧 Email: tyrakoranteng46@gmail.com 
 
 🔗 LinkedIn: https://www.linkedin.com/in/tyrakoranteng46/  
 
