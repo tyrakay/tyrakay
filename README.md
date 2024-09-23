@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Tyra!
 
-<!--
-**tyrakay/tyrakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist focusing on ML, NLP & Computer Vision**  
+📍 London
+📧 Email: tyrakoranteng462gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/tyrakoranteng46/  
+👨‍💻 GitHub: https://github.com/tyrakay
 
-Here are some ideas to get you started:
+## About Me 🌐
+Blending years of experience in ML, NLP, and Computer Vision, I transform data and language into impactful solutions and experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Toolbox 🛠️
+- **Languages**: Python, SQL, R, MATLAB
+- **Frameworks & Libraries**: PyTorch, scikit-learn, NumPy, TensorFlow, NLTK,
+- **Tools**: AWS, Azure, PyCharm, Jupyter Notebook Git
+- **Specialties**: LLMs, Deep Learning, ML, NLP, Computer Vision
+
+## Education 🎓
+- Msc Data Science, University of Sussex
+- BSc Medical Neuroscience, Univerisyt of Sussex
+
+
