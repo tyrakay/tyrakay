@@ -21,6 +21,6 @@ Blending years of experience in ML, NLP, and Computer Vision, I transform data a
 
 ## Education 🎓
 - Msc Data Science, University of Sussex
-- BSc Medical Neuroscience, Univerisyt of Sussex
+- BSc Medical Neuroscience, Univeristy of Sussex
 
 
