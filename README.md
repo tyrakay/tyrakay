@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist focusing on ML, NLP & Computer Vision**  
 
-📍 London
+📍 London, United Kingdom
 
 📧 Email: tyrakoranteng462gmail.com 
 
