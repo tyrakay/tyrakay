@@ -1,11 +1,13 @@
 # 👋 Hello, I'm Tyra!
 
 🚀 **Data Scientist focusing on ML, NLP & Computer Vision**  
+
 📍 London
 
 📧 Email: tyrakoranteng462gmail.com 
 
 🔗 LinkedIn: https://www.linkedin.com/in/tyrakoranteng46/  
+
 👨‍💻 GitHub: https://github.com/tyrakay
 
 ## About Me 🌐
