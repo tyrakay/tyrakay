@@ -8,7 +8,6 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/tyrakoranteng46/  
 
-👨‍💻 GitHub: https://github.com/tyrakay
 
 ## About Me 🌐
 Blending years of experience in ML, NLP, and Computer Vision, I transform data and language into impactful solutions and experiences.
