@@ -13,7 +13,7 @@
 Blending years of experience in ML, NLP, and Computer Vision, I transform data and language into impactful solutions and experiences.
 
 ## Tech Toolbox 🛠️
-- **Languages**: Python, SQL, R, MATLAB
+- **Languages**: Python, Java, SQL, R, MATLAB
 - **Frameworks & Libraries**: PyTorch, scikit-learn, NumPy, TensorFlow, NLTK,
 - **Tools**: AWS, Azure, PyCharm, Jupyter Notebook Git
 - **Specialties**: LLMs, Deep Learning, ML, NLP, Computer Vision
