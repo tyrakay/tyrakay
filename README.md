@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tyra!
 
-🚀 **Data Scientist focusing on ML, NLP & Computer Vision**  
+🚀 **Data Scientist specializing in ML, NLP & Computer Vision**  
 
 📍 London, United Kingdom
 
