@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tyra!
 
-🚀 **Data Scientist specializing in ML, NLP & Computer Vision**  
+🚀 **Data & ML Engineer | Experience in Data Pipelines, ML, & NLP
 
 📍 London, United Kingdom
 
@@ -10,13 +10,20 @@
 
 
 ## About Me 🌐
-Blending years of experience in ML, NLP, and Computer Vision, I transform data and language into impactful solutions and experiences.
+Data & ML Engineer with an MSc in Data Science and experience building data pipelines with GCP, Airflow, Python, and SQL.
 
 ## Tech Toolbox 🛠️
-- **Languages**: Python, Java, SQL, R, MATLAB
-- **Frameworks & Libraries**: PyTorch, scikit-learn, NumPy, TensorFlow, NLTK,
-- **Tools**: AWS, Azure, PyCharm, Jupyter Notebook Git
-- **Specialties**: LLMs, Deep Learning, ML, NLP, Computer Vision
+
+Languages: Python, SQL, Java, R
+
+Cloud & Big Data: Google Cloud (BigQuery, Cloud Storage, Cloud Composer), AWS
+
+Data Engineering: Apache Spark, Airflow, ETL/ELT Pipelines, Data Modeling
+
+ML Frameworks: PyTorch, scikit-learn, TensorFlow, NumPy, NLTK
+
+Development Environments: VS Code, PyCharm, Git, Jupyter Notebook
+
 
 ## Education 🎓
 - Msc Data Science, University of Sussex
