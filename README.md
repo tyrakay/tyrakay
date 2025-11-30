@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tyra!
 
-🚀 **Data & ML Engineer | Experience in Data Pipelines, ML, & NLP
+🚀 Data & ML Engineer | Experience in Data Pipelines, ML, & NLP
 
 📍 London, United Kingdom
 
